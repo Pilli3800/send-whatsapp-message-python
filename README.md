@@ -1,4 +1,4 @@
-# Send Whatsapp Message with Python
+# Send Whatsapp Message to Numbers From Excel with Python
 
 ## Starting 🚀
 _Application to send automated messages that include text and images in PYTHON 3.9 language._
